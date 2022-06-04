@@ -1,0 +1,11 @@
+.imgColorido {
+    filter: grayscale(0%);
+}
+
+.imgPretoBranco {
+    filter: grayscale(100%);
+}
+
+.imgInverter {
+    filter: invert(100%);
+}
